@@ -1,0 +1,3 @@
+Rodrigo Castro ,Optimizacion C++,CBI,Revista,235,12432-yteb
+Josue Figueroa,POO en Java,CBI,Revista,230,87463-iche
+Fernando Gutierrez,Calculo Integral,CBI,Revista,120,38610-puix
